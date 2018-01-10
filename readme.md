@@ -1,4 +1,4 @@
-# Project Title
+# Binance Order Notifications
 
 Binance does not currently offer notications when orders are created, cancelled or fulfilled. This will allow you to always stay current of your order's status.  
 
@@ -35,13 +35,11 @@ Once set up, `yarn start` and enjoy notifications on the go!
 * [Node Binance API](https://github.com/jaggedsoft/node-binance-api) - Interface with Binance's websockets
 * [Express](https://github.com/expressjs/express) - Dependency Management
 
-## Authors
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Donante
 
 * ETH: 0xf5952d84247EAE8cD1A1289e9DaAa6e950fE25E6
 * BTC: 1DGQ8EX53Gz8N7LaCfK24HqrXuQmsvhuf1
