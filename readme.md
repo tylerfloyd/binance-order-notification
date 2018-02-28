@@ -30,6 +30,13 @@ export phoneNumber=[phone_numer] (for US numbers, add a 1 infront of area code)
 
 Once set up, `yarn start` and enjoy notifications on the go!
 
+or try the Docker version and edit the variables inside the *Dockerfile*
+
+```
+docker build -t binance-sns .
+docker run --rm -dt --name binance-sns binance-sns
+```
+
 ## Built With
 
 * [Node Binance API](https://github.com/jaggedsoft/node-binance-api) - Interface with Binance's websockets
